@@ -1,13 +1,5 @@
 # Marketing Campaign Analysis (Facebook vs Google Ads)
 
-![Project Banner](https://raw.githubusercontent.com/github/explore/main/topics/data-analysis/data-analysis.png)
-
-## Badges
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 ## Overview
 A data-driven analysis of Facebook and Google AdWords marketing campaigns to compare conversions, cost efficiency, and long-term ROI.  
 The project includes data cleaning, visual analytics, statistical testing, time-series insights, and a linear regression model for conversion prediction.
